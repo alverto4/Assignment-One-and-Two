@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1e8e6943-0116-4f8a-9931-fdf6aa0400a8" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/AssignmentOneB/assignment/oneb/DateProgm.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AssignmentOneB/assignment/oneb/DateProgm.class" afterDir="false" />
+    <list default="true" id="419530cb-ef50-4948-965a-eed6635a96ec" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../AssignmentOneB/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../AssignmentOneB/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AssignmentOneB/out/production/AssignmentOneB/assignment/oneb/DateProgm.class" beforeDir="false" afterPath="$PROJECT_DIR$/../AssignmentOneB/out/production/AssignmentOneB/assignment/oneb/DateProgm.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../AssignmentTwoA/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../AssignmentTwoA/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../AssignmentTwoD/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../AssignmentTwoD/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../AssignmentTwoD/out/production/AssignmentTwoD/assignment/twoD/ShapeTesting.class" beforeDir="false" afterPath="$PROJECT_DIR$/../AssignmentTwoD/out/production/AssignmentTwoD/assignment/twoD/ShapeTesting.class" afterDir="false" />
@@ -17,14 +17,12 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FUSProjectUsageTrigger">
-    <session id="434697759">
+    <session id="238184255">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="5" />
-          <entry key="project.open.time.1" value="3" />
-          <entry key="project.open.time.29" value="1" />
-          <entry key="project.open.time.7" value="1" />
-          <entry key="project.opened" value="5" />
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.4" value="1" />
+          <entry key="project.opened" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -39,14 +37,14 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="dummy" value="9" />
-          <entry key="java" value="1190" />
+          <entry key="dummy" value="8" />
+          <entry key="java" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="1190" />
-          <entry key="PLAIN_TEXT" value="9" />
+          <entry key="JAVA" value="1" />
+          <entry key="PLAIN_TEXT" value="8" />
         </counts>
       </usages-collector>
     </session>
@@ -54,19 +52,33 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/assignment/oneb/DateProgm.java">
+        <entry file="file://$PROJECT_DIR$/src/assignment/oneC/TimeMain.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="9" column="27" selection-start-line="9" selection-start-column="27" selection-end-line="9" selection-end-column="27" />
+            <state relative-caret-position="170">
+              <caret line="10" column="5" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/assignment/oneb/Date.java">
+        <entry file="file://$PROJECT_DIR$/src/assignment/oneC/Time.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="646">
-              <caret line="56" selection-start-line="56" selection-end-line="56" />
+            <state relative-caret-position="782">
+              <caret line="46" column="1" selection-start-line="46" selection-start-column="1" selection-end-line="46" selection-end-column="1" />
+              <folding>
+                <element signature="e#299#300#0" expanded="true" />
+                <element signature="e#326#327#0" expanded="true" />
+                <element signature="e#356#357#0" expanded="true" />
+                <element signature="e#385#386#0" expanded="true" />
+                <element signature="e#415#416#0" expanded="true" />
+                <element signature="e#444#445#0" expanded="true" />
+                <element signature="e#481#482#0" expanded="true" />
+                <element signature="e#513#514#0" expanded="true" />
+                <element signature="e#554#555#0" expanded="true" />
+                <element signature="e#590#591#0" expanded="true" />
+                <element signature="e#631#632#0" expanded="true" />
+                <element signature="e#667#668#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -86,12 +98,12 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/assignment/oneb/Date.java" />
-        <option value="$PROJECT_DIR$/src/assignment/oneb/DateProgm.java" />
+        <option value="$PROJECT_DIR$/src/assignment/oneC/Time.java" />
+        <option value="$PROJECT_DIR$/src/assignment/oneC/TimeMain.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds">
     <option name="x" value="676" />
     <option name="width" value="697" />
     <option name="height" value="775" />
@@ -102,34 +114,35 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="AssignmentOneB" type="b2602c69:ProjectViewProjectNode" />
-              <item name="AssignmentOneB" type="462c0819:PsiDirectoryNode" />
+              <item name="AssignmentOneC" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AssignmentOneC" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="AssignmentOneB" type="b2602c69:ProjectViewProjectNode" />
-              <item name="AssignmentOneB" type="462c0819:PsiDirectoryNode" />
+              <item name="AssignmentOneC" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AssignmentOneC" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="AssignmentOneB" type="b2602c69:ProjectViewProjectNode" />
-              <item name="AssignmentOneB" type="462c0819:PsiDirectoryNode" />
+              <item name="AssignmentOneC" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AssignmentOneC" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="oneb" type="462c0819:PsiDirectoryNode" />
+              <item name="oneC" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1544643229096" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1544778126549" />
+    <property name="last_opened_file_path" value="D:/assignment.oneC" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -145,8 +158,8 @@
   </component>
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="assignment.oneb.DateProgm" />
-      <module name="AssignmentOneB" />
+      <option name="MAIN_CLASS_NAME" value="assignment.oneC.TimeMain" />
+      <module name="AssignmentOneC" />
       <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
       <RunnerSettings RunnerId="Run" />
       <ConfigurationWrapper RunnerId="Run" />
@@ -165,61 +178,75 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="1e8e6943-0116-4f8a-9931-fdf6aa0400a8" name="Default Changelist" comment="" />
-      <created>1544540158473</created>
+      <changelist id="419530cb-ef50-4948-965a-eed6635a96ec" name="Default Changelist" comment="" />
+      <created>1544778008403</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1544540158473</updated>
+      <updated>1544778008403</updated>
     </task>
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="784" extended-state="6" />
+    <frame x="676" y="0" width="697" height="775" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.16944024" />
+      <window_info id="Image Layers" />
+      <window_info id="Designer" />
+      <window_info id="UI Designer" />
+      <window_info id="Capture Tool" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24960753" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Image Layers" order="2" />
-      <window_info id="Designer" order="3" />
-      <window_info id="UI Designer" order="4" />
-      <window_info id="Capture Tool" order="5" />
-      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.3246154" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32917318" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Terminal" order="7" />
-      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
-      <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Messages" order="10" />
+      <window_info anchor="right" id="Palette" />
+      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="right" id="Palette&#9;" />
+      <window_info anchor="right" id="Maven Projects" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="right" id="Capture Analysis" order="4" />
-      <window_info anchor="right" id="Theme Preview" order="5" />
-      <window_info anchor="right" id="Palette&#9;" order="6" />
-      <window_info anchor="right" id="Maven Projects" order="7" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/assignment/oneb/Date.java">
+    <entry file="file://$PROJECT_DIR$/src/assignment/oneC/Time.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="646">
-          <caret line="56" selection-start-line="56" selection-end-line="56" />
+        <state relative-caret-position="782">
+          <caret line="46" column="1" selection-start-line="46" selection-start-column="1" selection-end-line="46" selection-end-column="1" />
+          <folding>
+            <element signature="e#299#300#0" expanded="true" />
+            <element signature="e#326#327#0" expanded="true" />
+            <element signature="e#356#357#0" expanded="true" />
+            <element signature="e#385#386#0" expanded="true" />
+            <element signature="e#415#416#0" expanded="true" />
+            <element signature="e#444#445#0" expanded="true" />
+            <element signature="e#481#482#0" expanded="true" />
+            <element signature="e#513#514#0" expanded="true" />
+            <element signature="e#554#555#0" expanded="true" />
+            <element signature="e#590#591#0" expanded="true" />
+            <element signature="e#631#632#0" expanded="true" />
+            <element signature="e#667#668#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/assignment/oneb/DateProgm.java">
+    <entry file="file://$PROJECT_DIR$/src/assignment/oneC/TimeMain.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="27" selection-start-line="9" selection-start-column="27" selection-end-line="9" selection-end-column="27" />
+        <state relative-caret-position="170">
+          <caret line="10" column="5" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
         </state>
       </provider>
     </entry>
